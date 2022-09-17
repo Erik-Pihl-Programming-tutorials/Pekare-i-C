@@ -10,5 +10,8 @@ Bilden ptr2b.png visualiserar pass-by-value via funktionsanrop av funktionen pri
 
 Källkodsfilen ptr3.c demonstrerar användning av pekare för arrayer.
 
+Se video tutorial här:
+https://youtu.be/RViXv-3UfKA
+
 
 
